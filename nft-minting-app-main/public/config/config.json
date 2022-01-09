@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x02639e37014f1A2276DC06d40854c1Ab466F122a",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x02639e37014f1a2276dc06d40854c1ab466f122a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Sad Birds",
+  "SYMBOL": "SBNFT",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/sad-birds",
+  "SHOW_BACKGROUND": true
+}
